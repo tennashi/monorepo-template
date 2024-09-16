@@ -15,3 +15,6 @@ projects:
   - 'apps/*'
   - 'packages/*'
   - 'schemas/*'
+
+vcs:
+  defaultBranch: 'main'
