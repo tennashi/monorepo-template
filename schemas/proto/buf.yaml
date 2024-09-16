@@ -6,3 +6,6 @@ lint:
 breaking:
   use:
     - FILE
+modules:
+  - path: .
+    name: buf.build/tennashi/example
