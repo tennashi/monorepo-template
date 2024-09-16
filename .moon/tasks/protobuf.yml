@@ -1,0 +1,11 @@
+$schema: 'https://moonrepo.dev/schemas/tasks.json'
+
+tasks:
+  format:
+    command: 'buf format -w'
+
+  lint:
+    command: 'buf lint'
+
+  push:
+    command: 'buf push'
