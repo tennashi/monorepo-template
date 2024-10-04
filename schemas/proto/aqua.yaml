@@ -10,4 +10,4 @@ registries:
 - type: standard
   ref: v4.220.1 # renovate: depName=aquaproj/aqua-registry
 packages:
-- name: bufbuild/buf@v1.41.0
+- name: bufbuild/buf@v1.44.0
