@@ -10,4 +10,4 @@ registries:
 - type: standard
   ref: v4.220.1 # renovate: depName=aquaproj/aqua-registry
 packages:
-- name: moonrepo/moon@v1.28.2
+- name: moonrepo/moon@v1.29.3
